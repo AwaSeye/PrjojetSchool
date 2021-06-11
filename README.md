@@ -1,1 +1,1 @@
-# PrjojetSchool
+# YourSchool
